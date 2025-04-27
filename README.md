@@ -44,7 +44,7 @@ Show ❤️ By Starring My <a href='https://github.com/naveenkumarsantosh?tab=re
 
 <h4 align="left">
     <img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Handshake.gif" height="30px">Connect with me &nbsp; 👉 &nbsp;  
-        <a href="https://www.linkedin.com/in/naveenkumarsantosh/">
+        <a href="https://www.linkedin.com/in/naveen-kumar-santosh-421882192/">
         <img align="center"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="naveenkumar santosh linkedin" width="24px" />
     </a>
 </h4> 
