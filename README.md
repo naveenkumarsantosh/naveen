@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning GenAI.
 - 👯 I’m looking to collaborate on any end to end Data science project.
 - 💬 Ask me about anything, I ll try my best to share my knowledge.
-- 📫 How to reach me: suresh.dataman@gmail.com
+- 📫 How to reach me: naveenkumarsantosh@gmail.com
 - 💭 Quote: PREDICTING THE FUTURE ISN’T MAGIC, IT’S ARTIFICIAL INTELLIGENCE 
 - 🥅 2024 Goals: To be more productive and successful 
 - ⚡ Fun fact: I'm graduate IT Engineer
