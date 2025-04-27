@@ -9,7 +9,7 @@
 - 📫 How to reach me: suresh.dataman@gmail.com
 - 💭 Quote: PREDICTING THE FUTURE ISN’T MAGIC, IT’S ARTIFICIAL INTELLIGENCE 
 - 🥅 2024 Goals: To be more productive and successful 
-- ⚡ Fun fact: I'm graduate mechanical engineer
+- ⚡ Fun fact: I'm graduate IT Engineer
 
 <br>
 <img height="30" src="https://img.shields.io/badge/Languages and  tools- 🧮-lightblue.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
@@ -22,7 +22,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="40" height="40"/><br>
     
 <br>
-<img height="27" src="https://img.shields.io/badge/Suresh Krishna's GitHub Status- 📈-lightgreen.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
+<img height="27" src="https://img.shields.io/badge/Naveen Kumar Santosh GitHub Status- 📈-lightgreen.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
 <p>
 </p>
 <p>&nbsp;
@@ -45,6 +45,6 @@ Show ❤️ By Starring My <a href='https://github.com/naveenkumarsantosh?tab=re
 <h4 align="left">
     <img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Handshake.gif" height="30px">Connect with me &nbsp; 👉 &nbsp;  
         <a href="https://www.linkedin.com/in/naveenkumarsantosh/">
-        <img align="center"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Sureshkrishna linkedin" width="24px" />
+        <img align="center"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="naveenkumar santosh linkedin" width="24px" />
     </a>
 </h4> 
